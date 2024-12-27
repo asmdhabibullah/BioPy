@@ -190,10 +190,3 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 """
-
-# Save to a Markdown file
-markdown_path = "/mnt/data/sc_rna_pipeline_README.md"
-with open(markdown_path, "w") as file:
-    file.write(project_description)
-
-markdown_path
