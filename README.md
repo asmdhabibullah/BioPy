@@ -1,4 +1,4 @@
-# BioPy - Here’s a detailed description of BioPy project.
+# ScBioPy - Here’s a detailed description of ScBioPy project.
 ## Title: **scAutoSeq: A Python-Based Automated Pipeline for Single-Cell RNA Sequencing Data Analysis**
 
 ## **Overview**
