@@ -1,8 +1,4 @@
-# BioPy
-
-Here’s a detailed description of BioPy project.
-
-project_description = """
+# BioPy - Here’s a detailed description of BioPy project.
 ## Title: **scAutoSeq: A Python-Based Automated Pipeline for Single-Cell RNA Sequencing Data Analysis**
 
 ## **Overview**
